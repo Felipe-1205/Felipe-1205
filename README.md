@@ -118,12 +118,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Felipe-1205&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&aa" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Felipe-1205&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&aAa" />
   <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Felipe-1205&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&aa" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Felipe-1205&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&aAa" alt="GitHub Streak" /></a>
 </td>
 <td width="50%" align="center">
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Felipe-1205&theme=dark&langs_count=20&aa"/>
+  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Felipe-1205&theme=dark&langs_count=20&aAa"/>
   </td>
 </tr>
 </table>
